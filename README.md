@@ -50,7 +50,6 @@ eza db tunnel
 
 ---
 
-## Source & Documentation
+## Documentation
 
-The CLI source code lives in the main repository: [github.com/ezacloud/eza](https://github.com/ezacloud/eza).  
-Full command documentation and guides: [eza.co.ke/docs/cli](https://eza.co.ke/docs/cli).
+Full command documentation, deployment workflows, and guides: [eza.co.ke/docs/cli](https://eza.co.ke/docs/cli).
